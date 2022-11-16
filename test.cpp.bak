@@ -6,5 +6,11 @@ int main()
 {
     cout << "Hello World" << endl;
     cout << "test" << endl;
+<<<<<<< HEAD
+    cout << "修复Bug" << endl;
+=======
+    cout << "v3" <<endl;
+    cout << "v3.1" << endl;
+>>>>>>> dev
     return 0;
 }
